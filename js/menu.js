@@ -4,7 +4,7 @@ function showMenu() {
     document.querySelector('.menu-overlay').classList.toggle('active');
     document.querySelector('.menu').classList.toggle('active');
   }
-  
+
   // eslint-disable-next-line no-unused-vars
   function hideMenu() {
     document.querySelector('.navigation.active').classList.remove('active');

@@ -24,7 +24,7 @@ const speakerArray = [
       description: ' Patrice Tlhopane Motsepe is a South African mining billionaire businessman. Since 12 March 2021, he has been serving as the President of the Confederation of African Football',
     },
   ];
-  
+
   const cardss = document.querySelector('.speaker-container');
   speakerArray.forEach((c) => {
     const card = document.createElement('article');
@@ -42,4 +42,3 @@ const speakerArray = [
     `);
     cardss.appendChild(card);
   });
-  
