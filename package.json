@@ -1,0 +1,27 @@
+{
+  "name": "theresetuyi-capstone-project73rdfifa-",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theresetuyi/theresetuyi-Capstone-project73rdFIFA-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theresetuyi/theresetuyi-Capstone-project73rdFIFA-/issues"
+  },
+  "homepage": "https://github.com/theresetuyi/theresetuyi-Capstone-project73rdFIFA-#readme",
+  "devDependencies": {
+    "hint": "^2.0.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
