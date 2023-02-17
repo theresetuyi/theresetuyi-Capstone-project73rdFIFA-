@@ -34,7 +34,7 @@ The 73rd FIFA Congress will be held in Kigali, Rwanda from 13th to 17th March 20
 In this project, I have created a website that can be used in 3rd FIFA Congress meetings to inform and give information about the meeting.
 
 > I have made a video for more information about the project [Project Description])
-
+https://www.loom.com/share/a572e832103d4ccca65b2dce48e6f3f4
 
 ## Built With
 
@@ -46,7 +46,7 @@ In this project, I have created a website that can be used in 3rd FIFA Congress 
 
 ## Project link live demo
 
-[Project Link]https://github.com/theresetuyi/Capstone-project
+[Project Link]https://github.com/theresetuyi/theresetuyi-Capstone-project73rdFIFA-
 
 
 
@@ -55,7 +55,7 @@ To get a local copy of this exercice, Please follow these simple example steps.
 
 1. Clone this repository or download the Zip folder:
 
-**``https://github.com/theresetuyi/Capstone-project.git``**
+**``https://github.com/theresetuyi/theresetuyi-Capstone-project73rdFIFA-.git``**
 
 2. Navigate to the location of the folder in your machine:
 
@@ -70,21 +70,39 @@ Now you can go and play with it as you wish :smile:
 
 ## Authors
 
+- GitHub: [@githubhandle](https://github.com/theresetuyi)
+- Twitter: [@twitterhandle](https://twitter.com/THERESETUYISAB2)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/therese-theddy-tuyisabe-249820203/)
 
-
-## Show your support
-Give a ⭐️ if you like this project!
-
-## 🤝 Contributing
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](h
+Feel free to check the [issues page](https://github.com/theresetuyi/theresetuyi-Capstone-project73rdFIFA-/issues).
 
-## Acknowledgments
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- Hat tip to anyone whose code was used
-- Big thanks to the [Microverse](https://bit.ly/MicroverseTN) community with a special mention of my coding partners, morning session teams, standup teams and reviewers.
+## ⭐️ Show your support <a name="support"></a>
 
-## 📝 License
-This project is [MIT](./LICENSE.txt) licensed.
+ Write a message to encourage readers to support your project
+
+ Give a ⭐️ if you like this project!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+ Give credit to everyone who inspired your codebase.
+
+I would like to thank my partner
+Gardimy Charles
+Hamdullah Andar
+Eric Tuyishimire
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License 
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
