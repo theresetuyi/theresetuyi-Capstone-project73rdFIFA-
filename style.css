@@ -371,7 +371,6 @@ footer {
   width: 1%;
   margin: 4% 5%;
   height: 160px;
-  /*background-image: url("Images/Bg1.PNG");*/
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -662,14 +661,12 @@ footer {
     margin-top: 80px;
     height: 100px;
     width: 100%;
-    /*background-image: url("Images/CBF1.jpg");*/
     background-size: cover;
   }
 
   .logo2 {
     width: 40%;
     margin: 30%;
-    /*background-image: url("Images/FIFA.png");*/
     background-size: contain;
     background-repeat: no-repeat;
   }
