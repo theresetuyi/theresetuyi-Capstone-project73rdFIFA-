@@ -28,13 +28,11 @@
 - [📝 License](#license)
 
 
-> ##This is a Capstone 73rd FIFA Congress Meeting in Rwanda website##
+ ## This is a Capstone 73rd FIFA Congress Meeting in Rwanda website
 
 The 73rd FIFA Congress will be held in Kigali, Rwanda from 13th to 17th March 2023. The 2023 FIFA presidential election will take place at the 73rd FIFA Congress,
 In this project, I have created a website that can be used in 3rd FIFA Congress meetings to inform and give information about the meeting.
 
-> I have made a video for more information about the project [Project Description])
-https://www.loom.com/share/a572e832103d4ccca65b2dce48e6f3f4
 
 ## Built With
 
@@ -44,11 +42,12 @@ https://www.loom.com/share/a572e832103d4ccca65b2dce48e6f3f4
 - Bootstrap
 - Vs code
 
-## Project link live demo
+## 🚀 Live Demo <a name="live-demo"></a>
+>
+- [Live Demo Link](https://github.com/theresetuyi/theresetuyi-Capstone-project73rdFIFA-/index.html)
+-[Live video Demo Link](https://www.loom.com/share/a572e832103d4ccca65b2dce48e6f3f4)
 
-[Project Link]https://github.com/theresetuyi/theresetuyi-Capstone-project73rdFIFA-
-
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting Started
 To get a local copy of this exercice, Please follow these simple example steps.
@@ -74,6 +73,13 @@ Now you can go and play with it as you wish :smile:
 - Twitter: [@twitterhandle](https://twitter.com/THERESETUYISAB2)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/therese-theddy-tuyisabe-249820203/)
 
+## 🔭 Future Features <a id="future-features"></a>
+
+
+- More responsiveness is going to be added considering very small devices
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
@@ -94,10 +100,7 @@ Feel free to check the [issues page](https://github.com/theresetuyi/theresetuyi-
 
  Give credit to everyone who inspired your codebase.
 
-I would like to thank my partner
-Gardimy Charles
-Hamdullah Andar
-Eric Tuyishimire
+This web page has been created using a Cindy Shin design.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

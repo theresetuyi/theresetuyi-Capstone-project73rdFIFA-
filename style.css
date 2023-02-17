@@ -159,6 +159,10 @@ h6 {
   margin-bottom: -24px;
 }
 
+.main-title{
+  color: #ec5242;
+}
+
 .intro-message {
   background: rgba(255, 255, 255, 0.4);
   border: #fff;
